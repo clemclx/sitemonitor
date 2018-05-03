@@ -108,3 +108,5 @@ var setChoice = async function (choices) {
         process.exit();
     }
 };
+
+setChoice();
